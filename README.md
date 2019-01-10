@@ -1,10 +1,6 @@
 # Java-Font-List
 
-<br>
-
 [**Download Here**](https://github.com/VictorSuciu/README-Assets/tree/master/Java-Font-List/Downloads)
-
-<br>
 
 ## Overview
 
