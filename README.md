@@ -12,6 +12,12 @@ see what each one actually looks like.
 
 <br>
 
+## Due Credit
+
+The code that gets the names of all system fonts was written by **Alvin Alexander** 
+on this [blog post](https://alvinalexander.com/blog/post/jfc-swing/swing-faq-list-fonts-current-platform).
+This utility takes those names as type String and generates a UI for ease of use.
+
 ## What it Looks Like
 
 ![alt text](https://github.com/VictorSuciu/README-Assets/blob/master/Java-Font-List/Images/UI-Screenshot.png)
